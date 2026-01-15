@@ -105,7 +105,14 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/L8K62iGHsxw9eLg16E/giphy.gif" alt="Demo SCEI" width="100%" style="border-radius: 5px;" />
+       <div align="center">
+        <img src=" <div align="center">
+        <!-- ⚠️ IMPORTANTE: Reemplaza los links de abajo con los URLs de tus imágenes subidas a GitHub -->
+        <img src="LINK_DE_IMAGEN_LOGIN_SCEI" alt="SCEI Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="LINK_DE_IMAGEN_DASHBOARD_SCEI" alt="SCEI Dashboard" width="100%" style="border-radius: 5px;" />
+      </div>" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="LINK_DE_IMAGEN_DASHBOARD_SCEI" alt="SCEI Dashboard" width="100%" style="border-radius: 5px;" />
+      </div>
     </td>
   </tr>
 
