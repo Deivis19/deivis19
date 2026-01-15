@@ -1,106 +1,143 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Deivis19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile count" /> </p>
+
 <div align="center">
 
-<!-- Top Pokeball Image -->
-<img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" width="100%" />
+<!-- Top Pokeball -->
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+
+<details open>
+<summary>Open profile</summary>
 
 <br>
-
-<!-- Avatar & Typing Intro -->
 <div>
-  <div align="center">
-      <!-- Tu Avatar de GitHub se carga automáticamente aquí -->
-      <img height="180" src="https://github.com/Deivis19.png" alt="Deivis Mendoza" style="border-radius: 50%; border: 4px solid #2e2e2e;">
+  <div align=center>
+      <!-- Tu Avatar de GitHub -->
+      <img height="200" src="https://github.com/Deivis19.png" style="border-radius: 50%; border: 4px solid #2e2e2e;" alt="Avatar de Deivis">
   </div>
-  <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=3F88C5&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Deivis+Mendoza;Ingeniero+en+Sistemas;Desarrollador+Full+Stack;Especialista+en+Python+%26+PHP;Siempre+creando+soluciones" alt="Typing SVG" /></a>
+  <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=500&color=3F88C5&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Deivis+Mendoza;Ingeniero+en+Sistemas;Desarrollador+Full+Stack;Apasionado+por+el+C%C3%B3digo;Python+%7C+PHP+%7C+Java+%7C+JS;Siempre+Aprendiendo" alt="Typing SVG" /></a>
   </div>
 </div>
 
-<br>
+<details>
+<summary>About me</summary>
 
-<!-- Sección 1: Sobre Mí (Estilo Código) -->
-<details open>
-<summary>👨‍💻 <b>Sobre Mí (System Info)</b></summary>
-<br>
 <div align="left">
 
 ```javascript
-const deivis_profile = {
-    nombre: "Deivis Mendoza",
-    ubicacion: "Venezuela",
-    titulo: "Ingeniero en Sistemas",
-    pasion: "Desarrollo de Software & Optimización",
-    codigo: ["Python", "PHP", "Java", "JavaScript"],
-    herramientas: ["phpMyAdmin", "Git", "VS Code"],
-    estado_actual: "Aprendiendo nuevas tecnologías 🚀",
-    contacto: "deivismendoza2020@gmail.com"
-};
-
-// Console Log:
-// "Ready to code the future!"
+/**
+ * Represents me.
+ * @constructor
+ * @param {string} location - Venezuela.
+ * @param {string} degree - Ingeniería en Sistemas.
+ * @param {string} jobTitle - Full Stack Developer.
+ * @param {string} passion - Building software solutions & Optimization.
+ * @param {string} stack - Python, PHP, Java, JavaScript.
+ * @param {string} tools - phpMyAdmin, Git, VS Code.
+ * @param {string} hobbies - Coding, Tech Research, AI.
+ * @param {string} email - deivismendoza2020@gmail.com
+ * @returns {Object} Deivis Mendoza.
+ */
 ```
 
 </div>
+
 </details>
 
-<!-- Sección 2: Tecnologías (Stack) -->
 <details>
-<summary>🛠️ <b>Mi Arsenal Tecnológico</b></summary>
-<br>
-<div align="center">
-    <h3>Lenguajes & Backend</h3>
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" />
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" />
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" />
-    
-    <h3>Frontend & DB</h3>
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" />
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" />
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
-    
-    <h3>Herramientas</h3>
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
-    <img width="50" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
+<summary>Tools</summary>
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Programming Languages</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
+    </kbd>
+    <kbd>
+      <kbd>Front-end</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" /> 
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
+    </kbd>
+    <kbd>
+      <kbd>Tools & Systems</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
+    </kbd>
+  </p>
 </div>
 </details>
 
-<!-- Sección 3: Estadísticas -->
 <details>
-<summary>📊 <b>Estadísticas de GitHub</b></summary>
-<br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deivis19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivis19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deivis19&theme=tokyonight&hide_border=true" height="150" />
-</div>
+  <summary>Quote</summary>
+  <br>
+  Una de mis frases favoritas:
+  <blockquote>
+    "El software es una gran combinación entre arte e ingeniería."
+    <br><strong>– Bill Gates</strong>
+  </blockquote>
 </details>
 
-<!-- Sección 4: Humor -->
 <details>
-  <summary>⚡ <b>Dosis Diaria de Humor Dev</b></summary>
+  <summary>Free DOSE hit</summary>
+  <br>
+  <small><i>Dosis diaria de humor para programadores:</i></small>
   <br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" /></div>
 </details>
 
-<br>
+<details>
+<summary>What can I do for you?</summary>
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
 
-<!-- Bottom Pokeball Image -->
-<img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" width="100%" />
+## ¡Trabajemos Juntos!
 
-<!-- Footer: Contacto -->
-<div align="center">
-  <h3>📫 ¡Conectemos!</h3>
-  <a href="mailto:deivismendoza2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/deivis-mendoza">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Deivis19">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+Si tienes alguna pregunta sobre desarrollo web, sistemas o simplemente quieres conectar, no dudes en contactarme.
+
+📫 **Email**: <a href="mailto:deivismendoza2020@gmail.com">deivismendoza2020@gmail.com</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+## Feedback constante
+
+**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+
+<blockquote>“La única forma de hacer un gran trabajo es amar lo que haces.”</blockquote>
+
+  </td>
+  </tr>
+</table>
+</details>
+
+</details>
+
+<!-- Bottom Pokeball -->
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
 </div>
 
+<div align=center>
+  <a href="https://linkedin.com/in/deivis-mendoza"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="mailto:deivismendoza2020@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
+
+-----
+<p align="center">Template original por <a href="https://github.com/Austinae">Austinae</a> | Adaptado por Deivis Mendoza</p>
