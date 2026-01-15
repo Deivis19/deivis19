@@ -129,7 +129,11 @@
       <p align="left"><a href="#">🔗 Ver Repositorio</a></p>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/26tn33ai01UfRKadO/giphy.gif" alt="Demo Chat" width="100%" style="border-radius: 5px;" />
+      <div align="center">
+        <!-- ⚠️ PEGA AQUÍ LOS LINKS DE TUS FOTOS DEL CHAT -->
+        <img src="LINK_CHAT_IMAGEN_1" alt="Chat Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="LINK_CHAT_IMAGEN_2" alt="Chat Dashboard" width="100%" style="border-radius: 5px;" />
+      </div>
     </td>
   </tr>
 
@@ -149,7 +153,11 @@
       <p align="left"><a href="#">🔗 Ver Repositorio</a></p>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Demo Agenda" width="100%" style="border-radius: 5px;" />
+       <div align="center">
+        <!-- ⚠️ PEGA AQUÍ LOS LINKS DE TUS FOTOS DE LA AGENDA -->
+        <img src="LINK_AGENDA_IMAGEN_1" alt="Agenda Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="LINK_AGENDA_IMAGEN_2" alt="Agenda Dashboard" width="100%" style="border-radius: 5px;" />
+      </div>
     </td>
   </tr>
 </table>
