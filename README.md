@@ -30,13 +30,11 @@
  * @constructor
  * @param {string} location - Venezuela.
  * @param {string} degree - Ingeniería en Sistemas.
- * @param {string} jobTitle - Full Stack Developer.
  * @param {string} passion - Building software solutions & Optimization.
  * @param {string} stack - Python, PHP, Java, JavaScript.
- * @param {string} tools - phpMyAdmin, Git, VS Code.
+ * @param {string} tools - phpMyAdmin, Git, VS Code, Cursor, Antigravity.
  * @param {string} hobbies - Coding, Tech Research, AI.
  * @param {string} email - deivismendoza2020@gmail.com
- * @returns {Object} Deivis Mendoza.
  */
 ```
 
@@ -94,14 +92,6 @@
 </details>
 
 <details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>Dosis diaria de humor para programadores:</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" /></div>
-</details>
-
-<details>
 <summary>What can I do for you?</summary>
 <table style="border: none">
   <tr>
@@ -135,7 +125,7 @@ Si tienes alguna pregunta sobre desarrollo web, sistemas o simplemente quieres c
 </div>
 
 <div align=center>
-  <a href="https://linkedin.com/in/deivis-mendoza"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/deivis-enrique-mendoza-s%C3%A1nchez-395653272"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="mailto:deivismendoza2020@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
