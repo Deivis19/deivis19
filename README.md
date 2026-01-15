@@ -107,7 +107,7 @@
     <td width="40%">
        <div align="center">
         <!-- ⚠️ IMPORTANTE: Reemplaza los links de abajo con los URLs de tus imágenes subidas a GitHub -->
-        <img src="" alt="SCEI Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="<img width="1917" height="1035" alt="Image" src="https://github.com/user-attachments/assets/81187d70-3f38-4c70-8707-096484060a0e" />" alt="SCEI Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
         <img src="" alt="SCEI Dashboard" width="100%" style="border-radius: 5px;" />
       </div>
     </td>
