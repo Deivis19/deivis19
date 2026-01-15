@@ -131,7 +131,7 @@
     <td width="40%">
       <div align="center">
         <!-- ⚠️ PEGA AQUÍ LOS LINKS DE TUS FOTOS DEL CHAT -->
-        <img src="LINK_CHAT_IMAGEN_1" alt="Chat Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="https://private-user-images.githubusercontent.com/166295031/536463386-301ccc14-089c-4533-b4f0-0a7ce6c39618.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1MTY4NDksIm5iZiI6MTc2ODUxNjU0OSwicGF0aCI6Ii8xNjYyOTUwMzEvNTM2NDYzMzg2LTMwMWNjYzE0LTA4OWMtNDUzMy1iNGYwLTBhN2NlNmMzOTYxOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNVQyMjM1NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNWMxNzM1ZmFmYTU2Y2IwZGJhYmIyZmM4YjU2ZjFiNmRmYTJlMjdkMDhjMTIyNzE3NmM5MzJhZWJkM2Y2YjllJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.g-H8jFLHEsFmQUgJZZ3URcXe6N0nXYFOb2K6xEU4pe8" alt="Chat Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
         <img src="LINK_CHAT_IMAGEN_2" alt="Chat Dashboard" width="100%" style="border-radius: 5px;" />
       </div>
     </td>
