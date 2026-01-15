@@ -82,7 +82,9 @@
 </details>
 </details>
 
-<details open>
+</details>
+
+<details>
 <summary>📂 Portafolios & Sistemas (Mis Proyectos)</summary>
 <br>
 <table width="100%">
@@ -91,21 +93,18 @@
     <td width="60%">
       <h3 align="left">🚀 1. Sistema SCEI (Gestión de Inventario)</h3>
       <p align="left">
-        Sistema integral desarrollado para el <b>control de equipos informáticos</b>. Permite gestión de inventario, registro de mantenimientos y control de usuarios.
+        Sistema de escritorio robusto para el <b>control de equipos informáticos</b>. Implementa interfaz moderna, gestión de inventario y base de datos local.
       </p>
       <p align="left">
-        <!-- Tecnologías usadas en este proyecto -->
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Desktop_App-2C3E50?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
       </p>
       <p align="left">
-          <!-- Cambia el # por el link a tu repo -->
           <a href="#">🔗 Ver Repositorio</a>
       </p>
     </td>
     <td width="40%">
-      <!-- TIP: Para que esto se vea PRO, sube un GIF de tu sistema a GitHub y pon el link aquí -->
       <img src="https://media.giphy.com/media/L8K62iGHsxw9eLg16E/giphy.gif" alt="Demo SCEI" width="100%" style="border-radius: 5px;" />
     </td>
   </tr>
@@ -113,25 +112,43 @@
   <!-- PROYECTO 2 -->
   <tr>
     <td width="60%">
-      <h3 align="left">🌐 2. Sistema Web / Otro Proyecto</h3>
+      <h3 align="left">💬 2. Chat Corporativo Local (En Desarrollo)</h3>
       <p align="left">
-        Espacio para tu siguiente gran proyecto. Describe aquí la solución web o sistema que hayas creado.
+        Plataforma de comunicación interna segura y rápida para entornos corporativos locales.
       </p>
       <p align="left">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
       <p align="left"><a href="#">🔗 Ver Repositorio</a></p>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/26tn33ai01UfRKadO/giphy.gif" alt="Demo Web" width="100%" style="border-radius: 5px;" />
+      <img src="https://media.giphy.com/media/26tn33ai01UfRKadO/giphy.gif" alt="Demo Chat" width="100%" style="border-radius: 5px;" />
+    </td>
+  </tr>
+
+  <!-- PROYECTO 3 -->
+  <tr>
+    <td width="60%">
+      <h3 align="left">� 3. Sistema de Agenda (Proyecto Universitario)</h3>
+      <p align="left">
+        Aplicación web para la gestión eficiente de citas y eventos académicos.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      </p>
+      <p align="left"><a href="#">🔗 Ver Repositorio</a></p>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Demo Agenda" width="100%" style="border-radius: 5px;" />
     </td>
   </tr>
 </table>
-
-
-
 
 
 
