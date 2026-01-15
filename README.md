@@ -107,7 +107,7 @@
     <td width="40%">
        <div align="center">
         <!-- ⚠️ IMPORTANTE: Reemplaza los links de abajo con los URLs de tus imágenes subidas a GitHub -->
-        <img src="<img width="1917" height="1035" alt="Image" src="https://github.com/user-attachments/assets/81187d70-3f38-4c70-8707-096484060a0e" />" alt="SCEI Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="https://private-user-images.githubusercontent.com/166295031/536458319-81187d70-3f38-4c70-8707-096484060a0e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1MTYyNzAsIm5iZiI6MTc2ODUxNTk3MCwicGF0aCI6Ii8xNjYyOTUwMzEvNTM2NDU4MzE5LTgxMTg3ZDcwLTNmMzgtNGM3MC04NzA3LTA5NjQ4NDA2MGEwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNVQyMjI2MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZTA0ZjU3YmQ1N2ExMDkzMTQ1NTE2ZWQyMzg4M2NmNzI1ODIyZmM0NzcwNWIxNWEwNjUzNWY3M2NlMTFhZjE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.HfujF_JbGtVCFF5kD9PAO2awP2VxYTgwuyzfZJFipE0" />" alt="SCEI Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
         <img src="" alt="SCEI Dashboard" width="100%" style="border-radius: 5px;" />
       </div>
     </td>
