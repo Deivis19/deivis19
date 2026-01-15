@@ -80,6 +80,61 @@
   </p>
 </div>
 </details>
+</details>
+
+<details open>
+<summary>📂 Portafolios & Sistemas (Mis Proyectos)</summary>
+<br>
+<table width="100%">
+  <!-- PROYECTO 1 -->
+  <tr>
+    <td width="60%">
+      <h3 align="left">🚀 1. Sistema SCEI (Gestión de Inventario)</h3>
+      <p align="left">
+        Sistema integral desarrollado para el <b>control de equipos informáticos</b>. Permite gestión de inventario, registro de mantenimientos y control de usuarios.
+      </p>
+      <p align="left">
+        <!-- Tecnologías usadas en este proyecto -->
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Desktop_App-2C3E50?style=flat-square&logo=windows&logoColor=white" />
+      </p>
+      <p align="left">
+          <!-- Cambia el # por el link a tu repo -->
+          <a href="#">🔗 Ver Repositorio</a>
+      </p>
+    </td>
+    <td width="40%">
+      <!-- TIP: Para que esto se vea PRO, sube un GIF de tu sistema a GitHub y pon el link aquí -->
+      <img src="https://media.giphy.com/media/L8K62iGHsxw9eLg16E/giphy.gif" alt="Demo SCEI" width="100%" style="border-radius: 5px;" />
+    </td>
+  </tr>
+
+  <!-- PROYECTO 2 -->
+  <tr>
+    <td width="60%">
+      <h3 align="left">🌐 2. Sistema Web / Otro Proyecto</h3>
+      <p align="left">
+        Espacio para tu siguiente gran proyecto. Describe aquí la solución web o sistema que hayas creado.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p align="left"><a href="#">🔗 Ver Repositorio</a></p>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/26tn33ai01UfRKadO/giphy.gif" alt="Demo Web" width="100%" style="border-radius: 5px;" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 <details>
   <summary>Quote</summary>
