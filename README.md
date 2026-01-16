@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Top Pokeball Image -->
-<img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" width="100%" />
+<!-- Top Premium Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3F88C5&height=150&section=header&text=Deivis%20Mendoza&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 
-<!-- Main Collapsible Container (The "Inside" of the Ball) -->
+<!-- Main Collapsible Container -->
 <details open>
 <summary>
-  <b>🔴 Click aquí para abrir/cerrar perfil (Open Profile)</b>
+  <b>✨ Visualizar Perfil Profesional & Portafolio</b>
 </summary>
 
 <br>
@@ -116,7 +116,7 @@ const deivis = {
       </td>
       <td width="45%">
         <div align="center">
-          <img src="https://private-user-images.githubusercontent.com/166295031/536463432-186dc22d-bbd9-46d2-9d57-78858c3468eb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1MTY4OTksIm5iZiI6MTc2ODUxNjU5OSwicGF0aCI6Ii8xNjYyOTUwMzEvNTM2NDYzNDMyLTE4NmRjMjJkLWJiZDktNDZkMi05ZDU3LTc4ODU4YzM0NjhlYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNVQyMjM2MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMjI4YTUzYjZjNDFjMGFmNDg0MTkyNjY4ZjdmZjc2YzA3YWQ3MDk0Yjg2ZTBiZTU2OTc2MTM2NzM2OWViOTQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iS_g80axaVbwes4OXE8-2yG96xWMj8s1lcK9EsbztXc" alt="Chat" width="100%" style="border-radius: 8px;" />
+          <img src="https://private-user-images.githubusercontent.com/166295031/536463432-186dc22d-bbd9-46d2-9d57-78858c3468eb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1MTY4OTksIm5iZiI6MTc2ODUxNjU5OSwicGF0aCI6Ii8xNjYyOTUwMzEvNTM2NDYzNDMyLTE4NmRjMjJkLWJiZDktNDZkMi05ZDU3LTc4ODU4YzM0NjhlYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNVQyMjM2MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMjI8YTUzYjZjNDFjMGFmNDg0MTkyNjY4ZjdmZjc2YzA3YWQ3MDk0Yjg2ZTBiZTU2OTc2MTM2NzM2OWViOTQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iS_g80axaVbwes4OXE8-2yG96xWMj8s1lcK9EsbztXc" alt="Chat" width="100%" style="border-radius: 8px;" />
         </div>
       </td>
     </tr>
@@ -153,8 +153,8 @@ const deivis = {
 
 </details>
 
-<!-- Bottom Pokeball Image -->
-<img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" width="100%" style="margin-top: -15px" />
+<!-- Bottom Premium Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3F88C5&height=150&section=footer" width="100%" style="margin-top: -15px" />
 
 </div>
 <p align="center"><i>© 2026 Deivis Mendoza. Design by Deivis19.</i></p>
