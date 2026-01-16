@@ -88,7 +88,7 @@ const deivis = {
           <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
           <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
         </p>
-        <p align="left"><a href="#">🔗 <b>Ver Repositorio</b></a></p>
+        <p align="left"><a href="https://github.com/Deivis19/SCEI-INFORMATICA.git">🔗 <b>Ver Repositorio</b></a></p>
       </td>
       <td width="45%">
          <div align="center">
