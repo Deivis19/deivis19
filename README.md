@@ -155,7 +155,7 @@
     <td width="40%">
        <div align="center">
         <!-- ⚠️ PEGA AQUÍ LOS LINKS DE TUS FOTOS DE LA AGENDA -->
-        <img src="<img width="1359" height="719" alt="Image" src="https://github.com/user-attachments/assets/a9bbd07a-c445-4825-a5b7-f8f1b00e6e9b" />" alt="Agenda Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="https://private-user-images.githubusercontent.com/166295031/536720745-a9bbd07a-c445-4825-a5b7-f8f1b00e6e9b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1NTY1NzEsIm5iZiI6MTc2ODU1NjI3MSwicGF0aCI6Ii8xNjYyOTUwMzEvNTM2NzIwNzQ1LWE5YmJkMDdhLWM0NDUtNDgyNS1hNWI3LWY4ZjFiMDBlNmU5Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNlQwOTM3NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NmY3MjQ5MGFjNzVhZWJiNzc3MTkwYmZkOGMyZTQ5OGUyZTFjNzI5ZTIyMDQ1NWNiNDRlZjYzNTMyODMyMTYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LoeIoAhLHN07MTrVDG2Y5PxpcKNzuyQ6Brs1kzKq6Io" alt="Agenda Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
         <img src="LINK_AGENDA_IMAGEN_2" alt="Agenda Dashboard" width="100%" style="border-radius: 5px;" />
       </div>
     </td>
