@@ -107,7 +107,7 @@ const deivis = {
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
         </p>
-        <p align="left"><a href="#">🔗 <b>Ver Repositorio</b></a></p>
+        <p align="left"><a href="https://github.com/Deivis19/CHAT-CORPORATIVO.git">🔗 <b>Ver Repositorio</b></a></p>
       </td>
       <td width="45%">
         <div align="center">
