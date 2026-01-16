@@ -155,7 +155,7 @@
     <td width="40%">
        <div align="center">
         <!-- ⚠️ PEGA AQUÍ LOS LINKS DE TUS FOTOS DE LA AGENDA -->
-        <img src="LINK_AGENDA_IMAGEN_1" alt="Agenda Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
+        <img src="<img width="1359" height="719" alt="Image" src="https://github.com/user-attachments/assets/a9bbd07a-c445-4825-a5b7-f8f1b00e6e9b" />" alt="Agenda Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
         <img src="LINK_AGENDA_IMAGEN_2" alt="Agenda Dashboard" width="100%" style="border-radius: 5px;" />
       </div>
     </td>
