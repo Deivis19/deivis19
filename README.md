@@ -52,13 +52,7 @@ const deivis = {
   meta: "Crear soluciones de impacto 🚀"
 };</pre>
     </td>
-    <td valign="top" width="45%">
-      <h3 align="right">📊 GitHub Stats</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Deivis19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="100%" />
-      </div>
-    </td>
-  </tr>
+   
 </table>
 
 <br>
