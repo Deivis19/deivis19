@@ -142,7 +142,7 @@
     <td width="60%">
       <h3 align="left">� 3. Sistema de Agenda (Proyecto Universitario)</h3>
       <p align="left">
-        Aplicación web para la gestión eficiente de citas y eventos académicos.
+        Aplicación web para la gestion de citas psicologicas.
       </p>
       <p align="left">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -156,7 +156,7 @@
        <div align="center">
         <!-- ⚠️ PEGA AQUÍ LOS LINKS DE TUS FOTOS DE LA AGENDA -->
         <img src="https://private-user-images.githubusercontent.com/166295031/536720745-a9bbd07a-c445-4825-a5b7-f8f1b00e6e9b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1NTY1NzEsIm5iZiI6MTc2ODU1NjI3MSwicGF0aCI6Ii8xNjYyOTUwMzEvNTM2NzIwNzQ1LWE5YmJkMDdhLWM0NDUtNDgyNS1hNWI3LWY4ZjFiMDBlNmU5Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNlQwOTM3NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NmY3MjQ5MGFjNzVhZWJiNzc3MTkwYmZkOGMyZTQ5OGUyZTFjNzI5ZTIyMDQ1NWNiNDRlZjYzNTMyODMyMTYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LoeIoAhLHN07MTrVDG2Y5PxpcKNzuyQ6Brs1kzKq6Io" alt="Agenda Login" width="100%" style="border-radius: 5px; margin-bottom: 10px;" />
-        <img src="LINK_AGENDA_IMAGEN_2" alt="Agenda Dashboard" width="100%" style="border-radius: 5px;" />
+        <img src="https://private-user-images.githubusercontent.com/166295031/536720804-43403172-88d5-442e-9b00-69b9f8067dc6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1NTY3NjMsIm5iZiI6MTc2ODU1NjQ2MywicGF0aCI6Ii8xNjYyOTUwMzEvNTM2NzIwODA0LTQzNDAzMTcyLTg4ZDUtNDQyZS05YjAwLTY5YjlmODA2N2RjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNlQwOTQxMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Zjk5NDA3MjY2YzRiNzExZmIyYzgyMTEzM2YyNzU1MDI5ZTllZTNjMjM1MjkwNWM0ZjVhNWI3NjQ1MzgwNTE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.RVjl4SUKHa4Swf0n0-FfscXGE9qyaxuRds_cTnycyHU" alt="Agenda Dashboard" width="100%" style="border-radius: 5px;" />
       </div>
     </td>
   </tr>
