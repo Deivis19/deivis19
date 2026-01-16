@@ -125,7 +125,7 @@ const deivis = {
           <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
         </p>
-        <p align="left"><a href="#">🔗 <b>Ver Repositorio</b></a></p>
+        <p align="left"><a href="https://github.com/Deivis19/Gestion-de-citas-psicologicas.git">🔗 <b>Ver Repositorio</b></a></p>
       </td>
       <td width="45%">
          <div align="center">
