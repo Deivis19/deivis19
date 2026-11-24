@@ -142,6 +142,8 @@ const deivis = {
 <div align="center">
   <blockquote>
     "El software es una gran combinación entre arte e ingeniería."
+    "Para mas información de servicios y soluciones tecnológicas lo encuentras aqui"
+    "https://pagina-publicitaria.huronbytecode.workers.dev/"
     <br><strong>– Bill Gates</strong>
   </blockquote>
 </div>
